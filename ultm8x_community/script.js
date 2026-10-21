@@ -158,7 +158,7 @@ window.addEventListener("mousemove", (e) => {
         ease: "power2.out"
     });
 
-    gsap.to(".logo-glow", {
+    gsap.to(".hero-art", {
         duration: 2,
         x: x * 0.5,
         y: y * 0.5,
